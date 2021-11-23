@@ -8,11 +8,6 @@ Simple Module/Package for generating Random Strings
 npm install simple-string-generator --save
 ```
 
-#### Install globally
-```sh
-npm i -g simple-string-generator
-```
-
 ## How to use
 ```
 var random = require('simple-string-generator');
