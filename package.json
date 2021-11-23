@@ -1,5 +1,5 @@
 {
-  "name": "random-string",
+  "name": "simple-string-generator",
   "version": "0.0.1",
   "description": "Simple Module/Package for generating Random Strings",
   "main": "server.js",

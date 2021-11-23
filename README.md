@@ -1,11 +1,11 @@
-# random-string
+# simple-string-generator
 Simple Module/Package for generating Random Strings
 
 ## HOW TO INSTALL
-# npm install random-string --save
+# npm install simple-string-generator --save
 
 ## HOW TO USE
-var random = require('random-string');
+var random = require('simple-string-generator');
 
 ```javascript
 ## METHOD
